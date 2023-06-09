@@ -1,3 +1,3 @@
-Company,item id,po reference,type,size,quantity,Priority
-OOONewDayls,newIdxzsc,"strange reference","asdasd","25",yes
+Company,item id,po reference,type,size,quantity,Priority,Release date
+OOONewDayls,newIdxzsc,"strange reference","asdasd","25",yes,"asd",asdasd
 company1,id1,asdasd,assembly,ss,asd
