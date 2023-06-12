@@ -1,0 +1,9 @@
+Company,item id,po reference,type,size,quantity,Priority,Release date
+OOONewDayls,newIdxzsc,"strange reference","asdasd","25",yes,"asd",asdasd
+company1,id1,asdasd,assembly,ss,asd
+OOONewDayls,id3,"strange reference","asdasd","25",yes,"asd",asdasd
+OOONewDayls,id11,"strange reference","asdasd","25","21","true",asdasd
+OOONewDayls,id12,"strange reference","asdasd","25",22,"yes",2022-11-11 11:11:11
+OOONewDayls,id12,"strange reference","asdasd","25",22,"YES","2022-11-11 11:11:11"
+OOONewDayls,id13,"strange reference","asdasd","25",22,true,"2022-11-11 11:11:11"
+OOONewDayls,id13,"strange reference","asdasd","25",22,yEs,"2022-11-11 11:11:11"
